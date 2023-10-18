@@ -18,7 +18,8 @@ dependencies:
 
 ##### Create a **.env** file in your root project folder
 
-![image](https://github.com/rifathossain82/Rifat-s-Dairy/assets/88751768/c9f13b58-e2f5-4e2d-b016-b0091f383c52)  
+![image](https://github.com/rifathossain82/Rifat-s-Dairy/assets/88751768/263e578a-fbed-4683-9e54-88d5e65faa91)
+
 
 
 ## Step 3:
