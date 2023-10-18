@@ -5,7 +5,21 @@
 # How to Add .env File in Flutter?
 
 <p>In Flutter (and in software development in general), it's a best practice to separate configuration settings and sensitive information from your source code. The reason for this is primarily for security, maintainability, and flexibility.</p>  
-Today we will learn, how we can do it?
+
+<br>
+
+**Today we will learn, how we can do it**  
+**How we can hide and seperate:**
+
+* API Base URL  
+* API Public Key  
+* API Private Key  
+* Payment Gateway Keys etc.
+
+
+<br>  
+
+> ***Note: We can add multiple environment files.***
 
 <br><br>
 ## Step 1:  
@@ -55,7 +69,7 @@ Future<void> main() async {
 
 
 <br><br>
-##### Welcome! We are done. Now we need to add variables in .env file and use them.
+##### Welcome! We did. Now we need to add the variables to the .env file and use them.
 
 
 ## Step 5:
@@ -105,3 +119,8 @@ class Config{
 ##### Don't forget to add .env in your gitignore file
 
 ![image](https://github.com/rifathossain82/Rifat-s-Dairy/assets/88751768/9608321c-062a-4ef7-902e-cc5db1cde311)
+
+
+<br><br><br><br>
+
+### #Keep_Fluttering  😀
