@@ -1,4 +1,8 @@
-### How to Add .env File in Flutter?
+
+![maxresdefault](https://github.com/rifathossain82/Rifat-s-Dairy/assets/88751768/f9de2cbd-0b67-4570-9f8b-5ecb830f3bb7)
+
+<br><br>
+# How to Add .env File in Flutter?
 
 <p>In Flutter (and in software development in general), it's a best practice to separate configuration settings and sensitive information from your source code. The reason for this is primarily for security, maintainability, and flexibility.</p>  
 Today we will learn, how we can do it?
