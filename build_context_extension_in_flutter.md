@@ -7,6 +7,11 @@ Today we'll learn how we can simplify your code using the build context extensio
 <br>
 
 ### First check this widget:
+Especially 
+***height***, 
+***width***, 
+***color*** and 
+***text style***
 
 ![without_extention](https://github.com/rifathossain82/Rifat-s-Dairy/assets/88751768/83ea9987-44ac-4d1e-b601-6e94429f31be)
 
