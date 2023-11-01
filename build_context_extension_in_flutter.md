@@ -1,8 +1,7 @@
-### How to Add .env File in Flutter?
+# Let's talk about the BuildContext extension in Flutter
 
-<p>In Flutter (and in software development in general), it's a best practice to separate configuration settings and sensitive information from your source code. The reason for this is primarily for security, maintainability, and flexibility.</p>  
-Today we will learn, how we can do it?
-
+<p>Extensions allow you to organize your code by grouping related functionality together. This helps in maintaining a clean and structured codebase.</p>  
+Today we will explore about that.
 
 ## Step 1:  
 
