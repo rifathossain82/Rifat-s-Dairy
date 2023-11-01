@@ -3,6 +3,11 @@
 <p>Extensions allow you to organize your code by grouping related functionality together. This helps in maintaining a clean and structured codebase.</p>  
 Today we will explore about that.
 
+
+![with_extention](https://github.com/rifathossain82/Rifat-s-Dairy/assets/88751768/8aae5b26-e33b-45e1-ae01-d64d309f5bc8)
+![without_extention](https://github.com/rifathossain82/Rifat-s-Dairy/assets/88751768/83ea9987-44ac-4d1e-b601-6e94429f31be)
+![build_context_extension](https://github.com/rifathossain82/Rifat-s-Dairy/assets/88751768/8c72242a-1812-4dd0-ae37-2e9252da0922)
+
 ## Step 1:  
 
 ##### Add dependencies in pubspec.yaml file:
