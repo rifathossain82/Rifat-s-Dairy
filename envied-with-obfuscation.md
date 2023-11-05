@@ -7,10 +7,8 @@ Since we need to add the file path to pubspec.yaml as an assets, cracking the en
 
 Another way I found to overcome this problem is env with obfuscation which adds an extra layer of protection. I recommend that, if you have an API key that you cannot afford to lose, you should store it on the server.
 
-## Let's go to the alternative way of dotenv
+#### Let's go to the alternative way of dotenv
 
-
-<br><br>
 ## Step 1:  
 
 ##### Add this packages in pubspec.yaml:
