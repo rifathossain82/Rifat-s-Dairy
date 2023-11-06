@@ -45,7 +45,7 @@ AGORA_TOKEN = 98b6407f28149ff92000000000000000
 <br><br>
 ## Step 3:  
 
-Create an env folder in lib folder then add this ***env.dart**
+Create an env folder in lib folder then add this ***env.dart***
 
 ```dart
 import 'package:envied/envied.dart';
